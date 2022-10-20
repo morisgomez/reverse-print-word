@@ -5,7 +5,7 @@ UID: 705089833
 Discussion Section: 5B
 Date: 10/21/2022
 Challenge: 
-- build program with headers <iostream> and <string> ony.
+- build program with headers <iostream> and <string> only.
 - must use a loop (for, while, or do-while).
 */
 #include <iostream>
